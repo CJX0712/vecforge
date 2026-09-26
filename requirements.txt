@@ -1,0 +1,7 @@
+# VecForge 直接依赖（锁定版本见 requirements.lock.txt）
+numpy>=2.0
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.3
+faiss-cpu>=1.7
+pytest>=7.0
